@@ -5,9 +5,8 @@ Simple demo written in swift of an animation which hiding the tab bar when dragg
 
 
 <br><br>
-<a href="https://imgflip.com/gif/bgc31"><img src="https://imgflip.com/gif/bgc31" title="made at imgflip.com"/></a>
+<a href="https://i.imgflip.com/bgc31.gif"><img src="https://i.imgflip.com/bgc31.gif" title="made at imgflip.com"/></a>
 <br>
-
 
 
 Requirements
