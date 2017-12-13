@@ -22,6 +22,7 @@ public class MovableFooterController : NSObject
     private var translation:CGFloat = 0.0
     private var footerHeight:CGFloat = 0.0
     
+    
 
     init(footerView:UIView,scrollView:UIScrollView,containerView:UIView)
     {        
